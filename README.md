@@ -6,6 +6,15 @@ Tick java project.
 java 基础项目案例。
 ```
 
+### github 项目管理和开发
+```dtd
+1）新建github账户
+2）安装git
+3）创建本地 ssh key（一台电脑仅需创建一次）；并查找到 id_rsa.pub文件；一般在c盘 C:\Users\DELL\.ssh
+4）github登录个人账户之后，在setting中设置ssh key。
+5）从远程clone仓库到本地
+git clone ssh.xxxxxx
+```
 
 ### 代码提交说明
 ```dtd
