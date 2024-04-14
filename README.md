@@ -21,7 +21,7 @@ git clone ssh.xxxxxx
 1）git pull
 拉取代码。目的是更新远程分支的变更到本地，避免在同一条分支开发的成员有提交，导致本地提交代码有冲突。
 
-2）git stash
+2）git status
 查看本地代码变更情况。
 
 3）git add "项目代码"
